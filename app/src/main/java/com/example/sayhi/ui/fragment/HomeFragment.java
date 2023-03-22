@@ -20,7 +20,7 @@ import com.example.sayhi.R;
 public class HomeFragment extends Fragment {
 
    Button showNotification;
-   NotificationManager manager;
+   public NotificationManager manager;
     NotificationCompat.Builder notification;
     public HomeFragment() {
         // Required empty public constructor
