@@ -19,7 +19,7 @@ import com.example.sayhi.R;
 
 public class HomeFragment extends Fragment {
 
-   Button showNotification;
+  public Button showNotification;
    public NotificationManager manager;
     NotificationCompat.Builder notification;
     public HomeFragment() {
