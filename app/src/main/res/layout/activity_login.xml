@@ -72,6 +72,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_margin="20sp"
+        android:textStyle="italic"
         android:fontFamily="@font/bebas_neue"
         android:text="Don't have any account Register Here"
         android:textColor="@color/purple_700"
